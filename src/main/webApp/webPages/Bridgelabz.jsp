@@ -7,7 +7,7 @@
 <title>Bridgelabz Customer</title>
 </head>
 <body>
-<form mathod="post" action="details">
+<form method="post" action="details">
 Enter Customer Id:<input type="text" name="cid"><br/>
 Enter Customer Name:<input type="text" name="cname"><br/>
 Enter Customer Email:<input type="text" name="cemail"><br/>

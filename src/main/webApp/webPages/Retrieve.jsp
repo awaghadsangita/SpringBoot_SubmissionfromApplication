@@ -7,10 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form method="post" action="getdetails">
-Enter Customer Id:<input type="number" name="cid"><br/>
-<input type="submit"><br/>
-
-</form>
+<h1>Retrieve Customer Details</h1>
+<h2>Customer Id: ${cid}</h2>
+<h2>Customer Name: ${cname}</h2>
+<h2>Customer Email: ${cemail}</h2>
 </body>
 </html>
